@@ -1,2 +1,2 @@
 # sorinbarjovanu.github.io
-web Desing SBarjovanu
+Web Design By Sorin Barjovanu
