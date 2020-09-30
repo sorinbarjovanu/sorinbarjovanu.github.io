@@ -1,0 +1,31 @@
+/* ==== PAGE WIDTH ==== */
+body {
+    padding-left: 20%;
+    padding-right: 20%
+ }
+
+
+h1 {text-align: center;
+    letter-spacing: 4px;
+    font-family: sans-serif;;
+    font-size: 72px;
+}
+
+h2 {font-family: sans-serif;
+    text-align: center;
+    line-height: 1.4;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 30px;
+    margin-bottom: 64px;     
+}
+
+h3 {
+    font-size: 32px;
+    margin-bottom: 4px;
+}
+
+p {  line-height: 1.6;
+    font-size: 22px;
+    margin-top: 0;
+}
