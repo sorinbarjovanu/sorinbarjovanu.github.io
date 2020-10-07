@@ -28,3 +28,9 @@ p {  font-family: sans-serif;
     margin-top: 0;
     font-size: 18px;
 }
+
+body { background-color: lightcyan;}
+
+h1,h2,h3  {color: blue;}
+
+p {color: darkslateblue;}
