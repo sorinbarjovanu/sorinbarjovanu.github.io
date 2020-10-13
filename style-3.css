@@ -1,7 +1,8 @@
 /* ==== PAGE WIDTH ==== */
 body {
     padding-left: 20%;
-    padding-right: 20%
+    padding-right: 20%;
+    background-color: purple;
  }
 
 h1 {text-align: center;
@@ -9,22 +10,21 @@ h1 {text-align: center;
     letter-spacing: 4px;
     font-size: 84px;
     margin-bottom: 64px;
+    color: white;
 }
 
 h2 {  text-transform: uppercase;
     font-size: 28px;
     margin-bottom: 4px;
     margin-top: 54px;
+    color: white;
 }
 
 p {   font-family: sans-serif;
     line-height: 1.6;
     font-size: 20px;
     margin-top: 0;
+    color: white;
 }
- body{ background-color: purple;}
 
- h1,h2 {color: white;}
-
- p{color: white;}
  

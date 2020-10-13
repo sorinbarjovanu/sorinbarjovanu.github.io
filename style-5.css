@@ -1,5 +1,7 @@
 
-img { display: block; width: 100%; height: auto }  
+/* Browser resets */
+img { display: block; width: 100%; height: auto } 
+
 
 /* Web page */
 body {
@@ -11,7 +13,7 @@ body {
 
 /* Main heading */
 h1 {
-    font-family: serif;    
+    font-family: "Merriweather" serif;   
     font-size: 84px;
     font-weight: normal;
     color: #3434B0;
@@ -49,7 +51,11 @@ p {
     margin-bottom: 22px;
 }
 
+
+/* Images */
 img{
     margin-bottom: 42px;
+    
+    /*Drop shaddow effect at the bottom of the images */
     box-shadow: 8px 10px 8px #888 ;
 }
