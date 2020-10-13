@@ -1,0 +1,16 @@
+body { font-family: sans-serif; } 
+
+
+    body {
+        padding-left: 20%;                      
+        padding-right: 20%
+     }
+ body { background-color: #1f364d;}
+
+ h1{ color: white;}
+
+ h2 { color: deeppink;}
+
+ h3 {color: lightgreen;}
+
+ p { color: #81b8cd;}
