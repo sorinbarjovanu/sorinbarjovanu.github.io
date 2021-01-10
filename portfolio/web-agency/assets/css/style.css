@@ -111,10 +111,6 @@ body {
     background-color: #fef1ef
 } 
 
-.container-flexbox .item-col-3.bg-pastel-blue { 
-    background-color: none;
-}
-
 img.image-shadow { box-shadow: 8px 10px 8px orange }
 
 /* Hero block layout at top of pages  */
